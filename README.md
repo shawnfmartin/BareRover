@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RaceTrackRover
 
 Seamlessly pick between Wheel and Keyboard to control the rover. Train the Brookstone Rover and gather data such as current frame and the wheel angle at that frame. Saves to a .NPY file to then be used to train a Neural Network.
