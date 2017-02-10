@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RaceTrackRover
 
 Seamlessly pick between Wheel and Keyboard to control the rover. Train the Brookstone Rover and gather data such as current frame and the wheel angle at that frame. Saves to a .NPY file to then be used to train a Neural Network.
@@ -63,3 +64,7 @@ The wheel outputs an angle between 0 and 180. Using Logitech's Momo Racing Force
   D: Right
 
   Z: Ends program and save data
+=======
+# BareRover
+Basic functionality for getting rover image feed and controlling the rover
+>>>>>>> 0227eaca0bc0264e2d89fbacf0187372efc09298
